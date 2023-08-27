@@ -5,3 +5,10 @@
 20:36:19.237 [main] INFO  com.example.testCases.TC_002_LoginTest - given user password
 20:36:19.259 [main] INFO  com.example.testCases.TC_002_LoginTest - clicked on submit button
 20:36:19.284 [main] INFO  com.example.testCases.TC_002_LoginTest - ****Finished TC_002_LoginTest******
+14:05:03.730 [main] INFO  com.example.testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest******
+14:05:03.924 [main] INFO  com.example.testCases.TC_002_LoginTest - click myAccount
+14:05:04.382 [main] INFO  com.example.testCases.TC_002_LoginTest - clicked on login
+14:05:04.468 [main] INFO  com.example.testCases.TC_002_LoginTest - given user email
+14:05:04.492 [main] INFO  com.example.testCases.TC_002_LoginTest - given user password
+14:05:04.515 [main] INFO  com.example.testCases.TC_002_LoginTest - clicked on submit button
+14:05:04.532 [main] INFO  com.example.testCases.TC_002_LoginTest - ****Finished TC_002_LoginTest******
