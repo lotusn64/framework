@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.example.utilities.ExtentReportManager"/>
+    </listeners>
+   <test name="com.example.testCases.TC_002_LoginTest">
+      <parameter name="browser" value="chrome"/>
+       <classes>
+           <class name="com.example.testCases.TC_002_LoginTest"/>
+       </classes>
+   </test>
+</suite>
